@@ -40,7 +40,7 @@ case $os in
 
     * )
         echo -e "OS '$os' not supported yet !\n"
-        exit 1
+        exit 2
 esac
 
 
